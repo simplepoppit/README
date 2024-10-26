@@ -8,5 +8,6 @@ Kodlama dünyasına olan merakım, farklı projelere ilgi duymama ve yeni şeyle
 Derslerimde ortalama bir başarıya sahibim, ancak yazılım alanında ilerlemek için her fırsatı değerlendirmeye çalışıyorum.
 
 ![image](https://github.com/user-attachments/assets/4182aeea-9fa6-4432-aa6b-11e86e154c82)
+![image](https://github.com/user-attachments/assets/b4751bc2-f04a-4230-acf3-4116d15039fa)
 
 ## sayfa geişecek
