@@ -10,4 +10,5 @@ aynı zamanda karmaşık verilerle çalışırken işimizi oldukça kolaylaştı
 [örnek şeklinde bir kod vermek gerekirsek (c++)](degişkenler.cpp)
 <p> </p>
 [örnek şeklinde bir kod vermek gerekirsek(python)](degişkenler.py)
+
 ## burada değişken kodu var
