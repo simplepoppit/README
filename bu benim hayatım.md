@@ -7,4 +7,6 @@ Yazılım alanına ilgi duyuyorum ve bu alanda kendimi geliştirmeye çalışıy
 Kodlama dünyasına olan merakım, farklı projelere ilgi duymama ve yeni şeyler öğrenme isteğime dayalı.
 Derslerimde ortalama bir başarıya sahibim, ancak yazılım alanında ilerlemek için her fırsatı değerlendirmeye çalışıyorum.
 
+![troll]()
+
 ## sayfa geişecek
