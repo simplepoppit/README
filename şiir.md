@@ -5,3 +5,4 @@ Dudak gülerken kalp ağlayamazmı
 Sevmek için güzelemi bakmalı
 <p> </p>
 Çirkin bir tenle güzel bir ruh kalbi bağlayamazmı
+<p> </p>
