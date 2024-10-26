@@ -7,8 +7,10 @@ Değişkenler,
 programların daha dinamik ve esnek çalışmasını sağlar;
 aynı zamanda karmaşık verilerle çalışırken işimizi oldukça kolaylaştırır.
 
+## burada değişken kodu var
+
 [örnek şeklinde bir kod vermek gerekirsek (c++)](degişkenler.cpp)
 <p> </p>
 [örnek şeklinde bir kod vermek gerekirsek(python)](degişkenler.py)
 
-## burada değişken kodu var
+
