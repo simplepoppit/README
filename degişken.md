@@ -6,3 +6,7 @@ verileri depolayabilir ve kodun farklı bölümlerinde bu verilere kolayca eriş
 Değişkenler,
 programların daha dinamik ve esnek çalışmasını sağlar;
 aynı zamanda karmaşık verilerle çalışırken işimizi oldukça kolaylaştırır.
+
+[örnek şeklinde bir kod vermek gerekirsek](degişkenler.cpp)
+
+## burada c++ kodu var degişken örneği olarak
