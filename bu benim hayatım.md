@@ -17,3 +17,4 @@ Derslerimde ortalama bir başarıya sahibim, ancak yazılım alanında ilerlemek
 [Değişken nedir? Değişken hakkında bilgiler](degişken.md)
 
 # sayfa gelişecek
+[gitmeden önce şiir oku](şiir.md)
