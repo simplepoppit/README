@@ -15,7 +15,7 @@ Derslerimde ortalama bir başarıya sahibim, ancak yazılım alanında ilerlemek
 # Degişken nedir
 
 [Değişken nedir? Değişken hakkında bilgiler](degişken.md)
-<br></br>
+
 [Koşullu yapılar nedir? Koşullu yapılar hakkında bilgiler](koşullu yapılar.md)
 
 # sayfa gelişecek
