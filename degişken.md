@@ -14,4 +14,3 @@ aynı zamanda karmaşık verilerle çalışırken işimizi oldukça kolaylaştı
 
 [örnek şeklinde bir kod vermek gerekirsek python](degiskenler.py)
 
-[gitmeden önce şiir oku](şiir.md)
