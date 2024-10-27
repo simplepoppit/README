@@ -22,4 +22,8 @@ Derslerimde ortalama bir başarıya sahibim, ancak yazılım alanında ilerlemek
 
 [Döngüler nedir? Döngüler hakkında bilgiler](döngüler.md)
 
+# Diziler Nedir
+
+[Diziler nedir? Diziler hakkında bilgiler](diziler.md)
+
 `sayfa gelişecek`
