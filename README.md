@@ -28,6 +28,6 @@ Derslerimde ortalama bir başarıya sahibim, ancak yazılım alanında ilerlemek
 
 # fonksiyonlar Nedir
 
-[fonksiyonlar nedir? fonksiyonlar hakkında bilgiler](diziler.md)
+[fonksiyonlar nedir? fonksiyonlar hakkında bilgiler](fonksiyonlar.md)
 
 `sayfa gelişecek`
