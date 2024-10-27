@@ -18,4 +18,8 @@ Derslerimde ortalama bir başarıya sahibim, ancak yazılım alanında ilerlemek
 
 [Koşullu yapılar nedir? Koşullu yapılar hakkında bilgiler](koşulluyapılar.md)
 
+# Döngüler Nedir
+
+[Döngüler nedir? Döngüler hakkında bilgiler](döngüler.md)
+
 `sayfa gelişecek`
