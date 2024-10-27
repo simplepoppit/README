@@ -12,4 +12,4 @@ Bu yapılar, programlara koşullara göre esneklik ve akıllı karar verme yeten
 
 # Aşşağıda bulunan örneklerden bakabilirsiniz
 
-<a href="koşullu yapı.cpp"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1200px-ISO_C%2B%2B_Logo.svg.png" width="100" height="100"></a><a href="koşullu yapılar.py"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Python.svg/640px-Python.svg.png" width="100" height="100"></a>
+<a href="koşullu yapılar.cpp"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1200px-ISO_C%2B%2B_Logo.svg.png" width="100" height="100"></a><a href="koşullu yapılar.py"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Python.svg/640px-Python.svg.png" width="100" height="100"></a>
