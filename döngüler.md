@@ -12,3 +12,4 @@ For döngüsü, bir sayaç veya belirli bir aralık üzerinde işlem yapmak içi
 
 **While** döngüsü, belirli bir koşul doğru olduğu sürece kod bloğunu tekrar tekrar çalıştıran bir döngü türüdür. Döngünün çalışma süresi, koşulun doğru veya yanlış olmasına bağlıdır. **While döngüsü**, kaç kere çalışacağını önceden bilmediğimiz işlemler için kullanışlıdır. Döngüdeki koşul başlangıçta kontrol edilir, eğer doğruysa kod bloğu çalıştırılır, aksi halde döngü sona erer.
 
+<a href="döngüler.cpp"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1200px-ISO_C%2B%2B_Logo.svg.png" width="100" height="100">
