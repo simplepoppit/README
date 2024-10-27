@@ -7,7 +7,7 @@ Yazılım alanına ilgi duyuyorum ve bu alanda kendimi geliştirmeye çalışıy
 Kodlama dünyasına olan merakım, farklı projelere ilgi duymama ve yeni şeyler öğrenme isteğime dayalı.
 Derslerimde ortalama bir başarıya sahibim, ancak yazılım alanında ilerlemek için her fırsatı değerlendirmeye çalışıyorum.
 
-<img src="https://media1.tenor.com/m/Kmvz_nzTHmUAAAAd/sans.gif" alt="sans" width="200" height="200">
+<img src="https://media1.tenor.com/m/Kmvz_nzTHmUAAAAd/sans.gif" alt="sans" width="200" height="250">
 
 
 # Degişken nedir
